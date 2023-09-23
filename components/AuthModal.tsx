@@ -2,7 +2,7 @@
 
 
 import { useSupabaseClient ,useSessionContext} from "@supabase/auth-helpers-react";
-import Modal  from "/home/suhaib/spotify-clone/components/Modal";
+import Modal  from "./Modal";
 import { useRouter } from "next/navigation";
 
 import { Auth } from "@supabase/auth-ui-react";

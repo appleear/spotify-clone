@@ -7,7 +7,7 @@ import { twMerge } from "tailwind-merge";
 import { RxCaretLeft } from "react-icons/rx";
 import { RxCaretRight } from "react-icons/rx";
 
-import {useUser} from  "/home/suhaib/spotify-clone/hooks/useUser"
+import {useUser} from  "@/hooks/useUser"
 
 import {HiHome} from "react-icons/hi";
 import { BiSearch } from "react-icons/bi";
